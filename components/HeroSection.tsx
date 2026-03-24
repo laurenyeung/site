@@ -7,7 +7,7 @@ export default function HeroSection() {
         </h1>
         <p className="text-lg md:text-xl text-muted-green max-w-2xl mx-auto mb-12 leading-relaxed">
           Build real strength, unlock new skills, and move with energy.
-          <br className="hidden md:block" />
+          <br className="hidden md:block" />{" "}
           Master your first pull-up, muscle-up, human flag, and deep flexibility.
         </p>
         <a
