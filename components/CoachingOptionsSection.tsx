@@ -23,7 +23,7 @@ export default function CoachingOptionsSection() {
               key={i}
               className="bg-beige p-10 md:p-12 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_32px_rgba(47,62,44,0.12)] group"
             >
-              <h3 className="text-sm font-black uppercase tracking-widest text-dark-green mb-6 leading-snug">
+              <h3 className="text-base font-black uppercase tracking-widest text-dark-green mb-6 leading-snug">
                 {option.title}
               </h3>
               <p className="text-muted-green leading-relaxed text-sm md:text-base">
