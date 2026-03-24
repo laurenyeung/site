@@ -1,3 +1,3 @@
 # site
 
-Hello
+Personal trainer website for Lauren.
